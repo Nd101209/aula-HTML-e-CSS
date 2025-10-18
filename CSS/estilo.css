@@ -1,0 +1,34 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: aqua;
+}
+
+p {
+    font-size: 38px;
+    /* tamanho do fonte/letra*/
+    line-height-step: 1, 5;
+    /* espaçamento entre linhas */
+    font-family: "Barriecito", system-ui;
+}
+
+#primeiro {
+    color: peru;
+}
+
+#segundo {
+    color: violet;
+}
+
+
+div {
+    height: 100px;
+    /* altura */
+    width: 100%;
+    /* comprimento */
+    background-color: burlywood;
+    overflow: visible;
+    /* comprimento */
+}
